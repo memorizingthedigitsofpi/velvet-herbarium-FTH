@@ -91,8 +91,7 @@ p.character_counter {
   color: #45433c !important;
 }
 
-li.blurb,
-dl.statistics.meta.group {
+li.blurb {
   border-left: none;
   border-right: none;
   border-top: none;
@@ -943,6 +942,13 @@ dl.signup.index.group {
 
 p.muted.notice {
   display: none;
+}
+
+dl.statistics.meta.group {
+  background: rgba(0,0,0,.3) url("https://64.media.tumblr.com/927e2fe48d8df6006168a4f947f52bc0/7cb0e66a9650a61b-47/s640x960/6d74753c777b9d1c10b18c996e3aa892ec7016b5.png");
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: auto 60%;
 }
 
 ul.tags.commas {

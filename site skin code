@@ -566,7 +566,7 @@ th {
 
 tbody tr th {
 background: transparent;
-border-bottom: 1px solid #dad998;
+border: 1px solid #dad998;
 }
 
 tbody tr {

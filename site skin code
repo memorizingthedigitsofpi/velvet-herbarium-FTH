@@ -564,6 +564,11 @@ th {
   color: #000;
 }
 
+tbody tr th {
+background: transparent;
+border-bottom: 1px solid #dad998;
+}
+
 tbody tr {
   border-bottom: 1px solid #dad998;
 }
